@@ -6,10 +6,23 @@
 	objectVersion = 50;
 	objects = {
 
+/* Begin PBXFileReference section */
+		E54B2D72258060B5009DF920 /* arraysYVectores.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = arraysYVectores.cpp; sourceTree = "<group>"; };
+		E54B2D73258060B5009DF920 /* arraysYVectores.hpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.h; path = arraysYVectores.hpp; sourceTree = "<group>"; };
+		E54B2D74258064C0009DF920 /* deberMayorNumero.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = deberMayorNumero.cpp; sourceTree = "<group>"; };
+		E54B2D75258064C0009DF920 /* deberMayorNumero.hpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.h; path = deberMayorNumero.hpp; sourceTree = "<group>"; };
+		E57D3C2D257C4A9200A52CB1 /* main.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; path = main.c; sourceTree = "<group>"; };
+/* End PBXFileReference section */
+
 /* Begin PBXGroup section */
 		E57D3C26257C4A7F00A52CB1 = {
 			isa = PBXGroup;
 			children = (
+				E54B2D74258064C0009DF920 /* deberMayorNumero.cpp */,
+				E54B2D75258064C0009DF920 /* deberMayorNumero.hpp */,
+				E54B2D72258060B5009DF920 /* arraysYVectores.cpp */,
+				E54B2D73258060B5009DF920 /* arraysYVectores.hpp */,
+				E57D3C2D257C4A9200A52CB1 /* main.c */,
 			);
 			sourceTree = "<group>";
 		};
